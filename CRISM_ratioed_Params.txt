@@ -1,0 +1,17 @@
+Vars
+
+1.9um
+Kaolanite
+Al
+Fe
+Mg-Chl
+PHSulfate
+Prehenite
+MHSulfate
+Opaline
+Olivine
+Pyroxene
+Plagioclase
+BD(epidote)
+BD(carbonates)
+BD148
